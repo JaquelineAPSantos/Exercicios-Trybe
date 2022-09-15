@@ -1,31 +1,36 @@
-Trybe
+<h1><i> Exercícios Trybe </h1>
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por Jaqueline Araújo Pinheiro dos Santos enquanto estudante na Trybe ! 
+Este repositório contém algumas as atividades de aprendizagem desenvolvidas por <b><i>Jaqueline Araújo Pinheiro dos Santos</b></i> enquanto estudante na Trybe!
 
 A Trybe é uma escola de desenvolvimento web que tem comprometimento genuíno com o sucesso profissional das pessoas estudantes.
 
 São mais de 1500 horas de formação que aborda fundamentos de desenvolvimento web, desenvolvimento Front-end, Back-end, ciência da área, metodologias ágeis e habilidades comportamentais.
 
-Introdução - Desenvolvimento Web
-Bloco 1: Introdução - Unix e Shell
-1-3: Unix e Bash - Parte 1
+<h2> Introdução - Desenvolvimento Web</h2>
 
-1-4: Unix e Bash - Parte 2
+<h3> Unix e Bash </h3>
 
-Bloco 2: Git e GitHub
-2-1: O que é e para que serve?
+- `Unix e Bash - Parte 1`
+- `Unix e Bash - Parte 2`
 
-2-2: Entendendo os comandos
+<h3> Git e GitHub </h3>
 
-2-3: Internet - Entendendo como ela funciona
+- `O que é e para que serve?`
+- `Entendendo os comandos`
+- `Internet - Entendendo como ela funciona`
 
-Bloco 3: Introdução - HTML e CSS
-3-1: HTML e CSS - Estruturas de página
+<h3> Introdução à HTML e CSS </h3>
 
-3-2: HTML e CSS - Primeiros passos em CSS
+- `HTML e CSS - Estruturas de página`
+- `HTML e CSS - Primeiros passos em CSS`
+- `HTML e CSS - Seletores e posicionamento`
+- `HTML Semântico`
+- `Projeto - Lições Aprendidas`
 
-3-3: HTML e CSS - Seletores e posicionamento
+<h3> Introdução à JavaScript </h3>
 
-3-4: HTML Semântico
-
-3-5: Projeto - Lições Aprendidas
+- `JavaScript - Primeiros Passos`
+- `JavaScript - Array e Loop For`
+- `JavaScript - Lógica de Programação e Algoritimos`
+- `JavaScript - Objetos e Funções`
+- `Projeto - Playground Functions`</i>
